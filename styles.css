@@ -43,6 +43,7 @@ div#box {
     text-align: center;
     margin-top: 50%;
     display: block;
+    z-index: 2;
     padding: auto;
     color: #fff;
   }
